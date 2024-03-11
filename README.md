@@ -2,6 +2,6 @@
 
 - HTML,
 - CSS,
-- JS
+- JavaScript
 
 [Watch demo](https://bogdanpavliv.github.io/portfolio/)
