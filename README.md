@@ -1,7 +1,7 @@
 ## Верстка сайту Portfolio
 
 - git,
-- figma, optimized graphics, svg where it is possible
+- figma, optimized graphics, svg where it is possible,
 - html,
 - css,
 - javascript,
